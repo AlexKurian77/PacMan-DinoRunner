@@ -1,0 +1,33 @@
+C:\Dot.Net\GameSelector\bin\Debug\GameSelector.exe.config
+C:\Dot.Net\GameSelector\bin\Debug\GameSelector.exe
+C:\Dot.Net\GameSelector\bin\Debug\GameSelector.pdb
+C:\Dot.Net\GameSelector\obj\Debug\GameSelector.csproj.AssemblyReference.cache
+C:\Dot.Net\GameSelector\obj\Debug\GameSelector.Form1.resources
+C:\Dot.Net\GameSelector\obj\Debug\GameSelector.Properties.Resources.resources
+C:\Dot.Net\GameSelector\obj\Debug\GameSelector.csproj.GenerateResource.cache
+C:\Dot.Net\GameSelector\obj\Debug\GameSelector.csproj.CoreCompileInputs.cache
+C:\Dot.Net\GameSelector\obj\Debug\GameSelector.exe
+C:\Dot.Net\GameSelector\obj\Debug\GameSelector.pdb
+C:\Users\alexa\source\repos\GameSelector\GameSelector\bin\Debug\GameSelector.exe.config
+C:\Users\alexa\source\repos\GameSelector\GameSelector\bin\Debug\GameSelector.exe
+C:\Users\alexa\source\repos\GameSelector\GameSelector\bin\Debug\GameSelector.pdb
+C:\Users\alexa\source\repos\GameSelector\GameSelector\obj\Debug\GameSelector.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\GameSelector\GameSelector\obj\Debug\GameSelector.Form1.resources
+C:\Users\alexa\source\repos\GameSelector\GameSelector\obj\Debug\GameSelector.Properties.Resources.resources
+C:\Users\alexa\source\repos\GameSelector\GameSelector\obj\Debug\GameSelector.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\GameSelector\GameSelector\obj\Debug\GameSelector.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\GameSelector\GameSelector\obj\Debug\GameSelector.exe
+C:\Users\alexa\source\repos\GameSelector\GameSelector\obj\Debug\GameSelector.pdb
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\bin\Debug\GameSelector.exe.config
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\bin\Debug\GameSelector.exe
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\bin\Debug\GameSelector.pdb
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\obj\Debug\GameSelector.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\obj\Debug\GameSelector.Form1.resources
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\obj\Debug\GameSelector.Properties.Resources.resources
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\obj\Debug\GameSelector.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\obj\Debug\GameSelector.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\obj\Debug\GameSelector.exe
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\obj\Debug\GameSelector.pdb
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexa\source\repos\Overall Project\GameSelector\GameSelector\obj\Debug\GameSele.8711861E.Up2Date

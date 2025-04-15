@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\Overall Project\\GameSelector\\GameSelector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{661D9F90-2A8C-44AF-91E7-37D158241217}|GameSelector.csproj|c:\\users\\alexa\\source\\repos\\overall project\\gameselector\\gameselector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661D9F90-2A8C-44AF-91E7-37D158241217}|GameSelector.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661D9F90-2A8C-44AF-91E7-37D158241217}|GameSelector.csproj|C:\\Users\\alexa\\source\\repos\\Overall Project\\GameSelector\\GameSelector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661D9F90-2A8C-44AF-91E7-37D158241217}|GameSelector.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Overall Project\\GameSelector\\GameSelector\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Overall Project\\GameSelector\\GameSelector\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:36:10.64Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\Overall Project\\GameSelector\\GameSelector\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\Overall Project\\GameSelector\\GameSelector\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:30:43.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
