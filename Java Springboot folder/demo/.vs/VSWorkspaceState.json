@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\demo",
+    "\\demo\\src",
+    "\\demo\\src\\main",
+    "\\demo\\src\\main\\java",
+    "\\demo\\src\\main\\java\\com",
+    "\\demo\\src\\main\\java\\com\\example",
+    "\\demo\\src\\main\\java\\com\\example\\demo"
+  ],
+  "SelectedNode": "\\demo\\src\\main\\java\\com\\example\\demo\\DemoApplication.java",
+  "PreviewInSolutionExplorer": false
+}

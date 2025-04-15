@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Downloads\\demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexa\\Downloads\\demo\\demo\\src\\main\\java\\com\\example\\demo\\DemoApplication.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:demo\\src\\main\\java\\com\\example\\demo\\DemoApplication.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoApplication.java",
+              "DocumentMoniker": "C:\\Users\\alexa\\Downloads\\demo\\demo\\src\\main\\java\\com\\example\\demo\\DemoApplication.java",
+              "RelativeDocumentMoniker": "demo\\src\\main\\java\\com\\example\\demo\\DemoApplication.java",
+              "ToolTip": "C:\\Users\\alexa\\Downloads\\demo\\demo\\src\\main\\java\\com\\example\\demo\\DemoApplication.java",
+              "RelativeToolTip": "demo\\src\\main\\java\\com\\example\\demo\\DemoApplication.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARoSURBVDhPXZRbiNVVFMZ/e/8v5zInmxnHLPFSOUaaiuUEWVGRWiH6YIrSDa0sEiPEXrqgVFBUaEkZFikUZVBaD4JdoEIjmrAJ0jSvo6OOpo7jnOO5//dl9TDOJC5YsNnfx\u002B9bez8sxcWSfTNeQFVeJjpyDpvbw24OU\u002BA0vUE33bnf1ft/dg54o/bqUw3p9Ob8zSo/cNcPEVGD57/n7UJyk6lnoOqRpwsXhQDS6oIqDBujutbmo23JEsnJR0HaHomGhnNLrak9lyDRANLxUAvkJmJzSM8M3OeLkejWftnHqGLjEEh9ef2anhvEhetVXmmsb7UV3545aRdeClQAsnvRMmBd\u002BcRNHNvTAl/FWKvx9eOo6h7EKZzN0n7V6MpLs6ZlRXlossgV4KdOgdbhq6tNvIhSdgD4B\u002BXRbf\u002B0D2XDljeRksfUNUkpg6nGVAUqAnmEM/4cFVPBiGAEau9vhfvvRRrCHWHMfC27F9\u002BIT7dJYQIUx\u002BDqwj2Ln\u002BXhN9YybeECrAhGhOmPzuP2WdMJg2a8CrGAB7zxSMmhRO62e\u002BU3DfIIhfFI30TYdQabCMf2/c3tDy5k/86dGBGc94y/bSpjJ43HiYK4BUEjAtRB8g6/zSLbbEHz/cSFsnpcUX2EyL8jUfkRnDzYDcCJQ51YEZyA0N8e8DpCh0PwgJwL4JcIukBC1aXZVFtPT2dNmVNKbBFnFarSBIBxAVE229\u002BpFOVSeTDABykIYujR/VEpQaX94VDtWvmudA4fTSVc7j\u002B8kt4TfSxa\u002BToAj61axYnOoyx69Xmcdbz31nsXpxS8CCpI01w19KUFAFF0KTk8rBXDATlq9V87FCu/MZgqmGqEJBkSD0FDlmK9hvEhF5SmpBXO1fG\u002BxjUzP\u002BXkPffiU4KgHtD8pFbJxkCrz65ACimsCEngMHGNctxHRZXoLfZSrpcpJgWcKyHeISIIUIgFX9JICiStjml\u002BjF9T3VEH\u002BUZ8qDAITqT/rxCsSjBSoxRoSoGi6mr45Dy4KgClSEALqgoJcZdWm7sPc3rsNH9uxGpfVzgvWOF/qAdPjlKYohoGVIKAOo7ElXGmiGQDiEGj3Jz2Yi4EUNu3W7vilg45m8PKeZ5b9TatEyYjXiFeY5Vm5pz5eAEuPhXAOYtWAToWMtonxcawdXDb2Cfv29pR6J2zvGMviRGScoRUszjgeDaDcwbxBrxFvEGcwVtDuOw79KS7aNY\u002BGX1enhgE\u002BgUL\u002Bgo\u002BadzXV8ecGYWcuobuhnH8cO1QNo\u002BNkdij0h6JHZK2\u002BFDAK/T4idDSfCGIg9PDTwcfDgLd3MeFWgP26A3Y/NUcamzr3t903ZZnZpvZNZFWry0uW8Pl6sSjctiDdSRjIFToSHXoONhgWmRT/7a5Y\u002BUSF8jHdI08WzXDvjjQ3PZ1294xvw6Epd6pfeBdstRlako1QXg8B04SIv\u002BJj9zHZkVjx4BXASRT1iyOerLH1cmlPw8Il1dm4/k764H5NnQNF4KeaF21Fq/jFVW63PcffVV70XNB3S8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-08T10:56:43.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
